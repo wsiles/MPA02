@@ -22,4 +22,5 @@
 <p align=center><img src="https://code.intef.es/wp-content/uploads/2023/04/Foto-1-e1680602020880.png" width="720"/></a></p>
 <p align=center style="font-size:45px;"><br></p>
 <p align=center style="font-size:65px;">¿Qué es una Revisión Sistemática?</p>
+<p align=center style="font-size:65px;">¿Qué es una Revisión Sistemática?</p>
 </body>
