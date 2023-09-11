@@ -33,8 +33,10 @@
     <li>Metodología de la Revisión (hasta el momento) <a href="001_Metodologia/Proyecto V8.pdf">PDF</a></li>
     <li>FASES:</li><br>
     <ul>
-      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
-      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
+      <li>Fase de Consulta a las Fuentes de Información (resultados por fuente) <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
+      <li>Fase de Aplicación de Criterios de Inclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_CI">FOLDER</a></li>
+      <li>Fase de Aplicación de Criterios de Exclusión parte 1 (resumen) <a href="001_Metodologia/3_Fase_DUPs/WithOutDUPs.pdf">PDF</a> ; (documentos por fuente) <a href="001_Metodologia/3_Fase_DUPs">FOLDER</a></li>
+      <li>Fase de Aplicación de Criterios de Exclusión parte 2 (documentos por fuente) <a href="001_Metodologia/4_Fase_Exclu">FOLDER</a></li>
     </ul>
   </ul>
 </ul>
