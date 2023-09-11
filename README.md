@@ -26,6 +26,7 @@
   <ul>
     <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
     <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
+    <li>Referencias Bibliográficas <a href="000_Inicios/Referencias">FOLDER</a></li>
   </ul><br>
   <li>SEGUNDA ETAPA:</li><br>
   <ul>
