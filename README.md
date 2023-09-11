@@ -20,10 +20,18 @@
 </table>
 <p style="padding-top:20px"></p>
 <p align=left><img src="https://code.intef.es/wp-content/uploads/2023/04/Foto-1-e1680602020880.png" width="740" height="340"/></a></p>
-<p align=left style="font-size:65px;">Contenido</p>
+<p align=left style="font-size:65px;">CONTENIDO</p>
 <ul>
-  <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
-  <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
+  <li>PRIMERA ETAPA:</li>
+  <ul>
+    <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
+    <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
+  </ul>
+  <li>SEGUNDA ETAPA:</li>
+  <ul>
+    <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
+    <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
+  </ul>
 </ul>
 
 </body>
