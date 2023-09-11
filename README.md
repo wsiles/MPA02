@@ -22,8 +22,7 @@
 <p align=left><img src="https://code.intef.es/wp-content/uploads/2023/04/Foto-1-e1680602020880.png" width="740" height="340"/></a></p>
 <p align=left style="font-size:65px;">Contenido</p>
 <ul>
-
-  <li>Revisión Sistemática según metodología PRISMA <a href="">PDF</a></li>
+  <li>Revisión Sistemática, según metodología PRISMA <a href="PRISMA2020-S0300893221002748.pdf">PDF</a></li>
 </ul>
 
 </body>
