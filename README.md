@@ -30,10 +30,11 @@
   </ul><br>
   <li>SEGUNDA ETAPA:</li><br>
   <ul>
-    <li>Metodología de la Revisión (hasta el momento) <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
+    <li>Metodología de la Revisión (hasta el momento) <a href="001_Metodologia/Proyecto V8.pdf">PDF</a></li>
     <li>FASES:</li><br>
     <ul>
-      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/Referencias">FOLDER</a></li>
+      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
+      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
     </ul>
   </ul>
 </ul>
