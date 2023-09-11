@@ -4,7 +4,7 @@
 <p align=center style="font-size:95pt;">Pensamiento Computacional y Actividades con Programación en el Aula de Matemáticas:</p>
 <p align=center style="font-size:65px;">Una Revisión Sistemática</p>
 <p align=center style="font-size:45px;"><br></p>
-<table width=100%>
+<table width=740px>
   <tr>
     <td width=100px style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Materia:</strong></td>
     <td width=640px style="vertical-align:top;padding-top:15px">MPA02 - Actividad de Titulación II</td>
