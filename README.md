@@ -30,8 +30,11 @@
   </ul><br>
   <li>SEGUNDA ETAPA:</li><br>
   <ul>
-    <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
-    <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
+    <li>Metodología de la Revisión (hasta el momento) <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
+    <li>FASES:</li><br>
+    <ul>
+      <li>Fase de Consulta a las Fuentes de Información <a href="001_Metodologia/Referencias">FOLDER</a></li>
+    </ul>
   </ul>
 </ul>
 
