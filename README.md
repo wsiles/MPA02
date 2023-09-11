@@ -1,9 +1,9 @@
 <body>
 
 <p style="padding-top:50px"></p>
-<p align=left style="font-size:95px;"># Pensamiento Computacional y Actividades con Programación en el Aula de Matemáticas:</p>
-<p align=left style="font-size:95px;"># Una Revisión Sistemática</p>
-<p align=left style="font-size:45px;"><br></p>
+<p align=left style="font-size:95px">Pensamiento Computacional y Actividades con Programación en el Aula de Matemáticas:</p>
+<p align=left style="font-size:95px">Una Revisión Sistemática</p>
+<p align=left style="font-size:45px"><br></p>
 <table width=740px>
   <tr>
     <td width=100px style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Materia:</strong></td>
