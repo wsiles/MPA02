@@ -6,7 +6,7 @@
 <p align=center style="font-size:45px;"><br></p>
 <table width=740px>
   <tr>
-    <td width=100px style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Materia:</strong></td>
+    <td width=100px style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Asignatura:</strong></td>
     <td width=620px style="vertical-align:top;padding-top:15px">MPA02 - Actividad de Titulación II</td>
   </tr>
   <tr>
