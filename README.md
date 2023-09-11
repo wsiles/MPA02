@@ -1,8 +1,8 @@
 <body>
 
 <p style="padding-top:50px"></p>
-<p align=center style="font-size:95pt;">Pensamiento Computacional y Actividades con Programación en el Aula de Matemáticas:</p>
-<p align=center style="font-size:65px;">Una Revisión Sistemática</p>
+<p align=left style="font-size:95pt;">Pensamiento Computacional y Actividades con Programación en el Aula de Matemáticas:</p>
+<p align=left style="font-size:65px;">Una Revisión Sistemática</p>
 <p align=left style="font-size:45px;"><br></p>
 <table width=740px>
   <tr>
