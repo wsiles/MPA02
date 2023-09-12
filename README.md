@@ -35,8 +35,8 @@
     <ul>
       <li>Fase de Consulta a las Fuentes de Información (resultados por fuente) <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
       <li>Fase de Aplicación de Criterios de Inclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_CI">FOLDER</a></li>
-      <li>Fase de Aplicación de Criterios de Exclusión parte 1 (resumen) <a href="001_Metodologia/3_Fase_DUPs/WithOutDUPs.pdf">PDF</a> ; (documentos por fuente) <a href="001_Metodologia/3_Fase_DUPs">FOLDER</a></li>
-      <li>Fase de Aplicación de Criterios de Exclusión parte 2 (documentos por fuente) <a href="001_Metodologia/4_Fase_Exclu">FOLDER</a></li>
+      <li>Fase de Aplicación de Criterios de Exclusión parte 1 (resumen) <a href="001_Metodologia/3_Fase_CE_P1/RST_CE1_CE2.pdf">PDF</a> ; (documentos por fuente y excluidos por CE1, CE2) <a href="001_Metodologia/3_Fase_CE_P1">FOLDER</a></li>
+      <li>Fase de Aplicación de Criterios de Exclusión parte 2 (documentos por fuente y excluidos por CE3, CE4) <a href="001_Metodologia/4_Fase_CE_P2">FOLDER</a></li>
     </ul>
   </ul>
 </ul>
