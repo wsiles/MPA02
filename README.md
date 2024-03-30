@@ -38,7 +38,7 @@
       <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
     </ul>
     <br><li>Marco Metodológico del estudio <a href="000_Inicios/001_Metodologia.pdf">PDF</a></li>
-  </ul>
+  </ul><br>
   <li>TERCERA ETAPA:</li><br>
   <ul>
     <li>Resultados y Conclusiones del estudio <a href="000_Inicios/002_Sintesis.pdf">PDF</a></li>
