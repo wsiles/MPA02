@@ -24,7 +24,7 @@
 <ul>
   <li>PRIMERA ETAPA:</li><br>
   <ul>
-    <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
+    <li>Características de la Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
     <li>Referencias Bibliográficas <a href="000_Inicios/Referencias">FOLDER</a></li>
     <li>Introducción, Marco Teórico y Planteamiento del estudio <a href="000_Inicios/000_Introduccion.pdf">PDF</a></li>
   </ul><br>
