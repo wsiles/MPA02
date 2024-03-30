@@ -25,8 +25,8 @@
   <li>PRIMERA ETAPA:</li><br>
   <ul>
     <li>Revisión Sistemática, según metodología PRISMA <a href="000_Inicios/PRISMA2020-S0300893221002748.pdf">PDF</a></li>
-    <li>Introducción, Justificación y Planteamiento de Revisión del Proyecto de Titulación <a href="000_Inicios/Primera Etapa.pdf">PDF</a></li>
     <li>Referencias Bibliográficas <a href="000_Inicios/Referencias">FOLDER</a></li>
+    <li>Introducción, Marco Teórico y Planteamiento del estudio <a href="000_Inicios/000_Introduccion.pdf">PDF</a></li>
   </ul><br>
   <li>SEGUNDA ETAPA:</li><br>
   <ul>
@@ -36,17 +36,12 @@
       <li>Fase de Consulta a las Fuentes de Información (resultados por fuente) <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
       <li>Fase de Selección mediante la Aplicación de Criterios de Inclusión y Exclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_Seleccion">FOLDER</a></li>
       <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
+      <li>Marco Metodológico del estudio <a href="000_Inicios/001_Metodologia.pdf">PDF</a></li>
     </ul>
   </ul>
   <li>TERCERA ETAPA:</li><br>
   <ul>
-    <li>Resultados y Conclusiones</li>
-    <li>FASES:</li><br>
-    <ul>
-      <li>Fase de Consulta a las Fuentes de Información (resultados por fuente) <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
-      <li>Fase de Selección mediante la Aplicación de Criterios de Inclusión y Exclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_Seleccion">FOLDER</a></li>
-      <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
-    </ul>
+    <li>Resultados y Conclusiones del estudio <a href="000_Inicios/002_Sintesis.pdf">PDF</a></li>
   </ul>
 </ul>
 
