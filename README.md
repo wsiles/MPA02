@@ -38,6 +38,16 @@
       <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
     </ul>
   </ul>
+  <li>TERCERA ETAPA:</li><br>
+  <ul>
+    <li>Resultados y Conclusiones</li>
+    <li>FASES:</li><br>
+    <ul>
+      <li>Fase de Consulta a las Fuentes de Información (resultados por fuente) <a href="001_Metodologia/1_Fase_Consulta">FOLDER</a></li>
+      <li>Fase de Selección mediante la Aplicación de Criterios de Inclusión y Exclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_Seleccion">FOLDER</a></li>
+      <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
+    </ul>
+  </ul>
 </ul>
 
 </body>
