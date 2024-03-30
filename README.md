@@ -37,7 +37,7 @@
       <li>Fase de Selección mediante la Aplicación de Criterios de Inclusión y Exclusión (documentos por fuente) <a href="001_Metodologia/2_Fase_Seleccion">FOLDER</a></li>
       <li>Fase de Elección para obtención de muestra (documentos por fuente) <a href="001_Metodologia/3_Fase_Eleccion">FOLDER</a></li>
     </ul>
-    <li>Marco Metodológico del estudio <a href="000_Inicios/001_Metodologia.pdf">PDF</a></li>
+    <br><li>Marco Metodológico del estudio <a href="000_Inicios/001_Metodologia.pdf">PDF</a></li>
   </ul>
   <li>TERCERA ETAPA:</li><br>
   <ul>
